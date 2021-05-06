@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: f9b49838f8c04784ba49684caae8913c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2295549006505040794
+    second: old-dark-castle-interior-tileset 1_0
+  - first:
+      213: 9114145000908840493
+    second: old-dark-castle-interior-tileset 1_1
+  - first:
+      213: -2310553958381460713
+    second: old-dark-castle-interior-tileset 1_2
+  - first:
+      213: 9185341793842330076
+    second: old-dark-castle-interior-tileset 1_3
+  - first:
+      213: -5550439848744249471
+    second: old-dark-castle-interior-tileset 1_4
+  - first:
+      213: -5453434430888330391
+    second: old-dark-castle-interior-tileset 1_5
+  - first:
+      213: -6317513100415080731
+    second: old-dark-castle-interior-tileset 1_6
+  - first:
+      213: -7934416170772467319
+    second: old-dark-castle-interior-tileset 1_7
+  - first:
+      213: -2186068300427641977
+    second: old-dark-castle-interior-tileset 1_8
+  - first:
+      213: 2326325801947830897
+    second: old-dark-castle-interior-tileset 1_9
+  - first:
+      213: -8535070820792452770
+    second: old-dark-castle-interior-tileset 1_10
+  - first:
+      213: 192140829491141099
+    second: old-dark-castle-interior-tileset 1_11
+  - first:
+      213: -7670003043501655371
+    second: old-dark-castle-interior-tileset 1_12
+  - first:
+      213: 8494857692911754968
+    second: old-dark-castle-interior-tileset 1_13
+  - first:
+      213: -3357705538122098642
+    second: old-dark-castle-interior-tileset 1_14
+  - first:
+      213: -3008572862879958612
+    second: old-dark-castle-interior-tileset 1_15
+  - first:
+      213: -2011517018620313654
+    second: old-dark-castle-interior-tileset 1_16
+  - first:
+      213: 8107606868828268748
+    second: old-dark-castle-interior-tileset 1_17
+  - first:
+      213: 8606970943403275895
+    second: old-dark-castle-interior-tileset 1_18
+  - first:
+      213: -4469446881712357945
+    second: old-dark-castle-interior-tileset 1_19
+  - first:
+      213: 1858778882749361167
+    second: old-dark-castle-interior-tileset 1_20
+  - first:
+      213: -875799153168938782
+    second: old-dark-castle-interior-tileset 1_21
+  - first:
+      213: -2483072751385658899
+    second: old-dark-castle-interior-tileset 1_22
+  - first:
+      213: 5594211764474283366
+    second: old-dark-castle-interior-tileset 1_23
+  - first:
+      213: 5324509945087909764
+    second: old-dark-castle-interior-tileset 1_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdb39b8ad6bdf10800000000000000
+      internalID: 2295549006505040794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed29ae692fb7e70800000000000000
+      internalID: 9114145000908840493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 124
+        width: 160
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ec4caa634fefd0800000000000000
+      internalID: -2310553958381460713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9758a02b3e87f70800000000000000
+      internalID: 9185341793842330076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1871d647d50e8f2b0800000000000000
+      internalID: -5550439848744249471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b340557428154b0800000000000000
+      internalID: -5453434430888330391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 127
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e1e98e4fa358a0800000000000000
+      internalID: -6317513100415080731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 127
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981fdf0f78a43e190800000000000000
+      internalID: -7934416170772467319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb44a867689a1e0800000000000000
+      internalID: -2186068300427641977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1de0ddf4c84020800000000000000
+      internalID: 2326325801947830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 15
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593dd92f465d8980800000000000000
+      internalID: -8535070820792452770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91ba0011f9aa200800000000000000
+      internalID: 192140829491141099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3bed8edcae8590800000000000000
+      internalID: -7670003043501655371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 63
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dedf73601cc3e570800000000000000
+      internalID: 8494857692911754968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 15
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28dedb5a980761d0800000000000000
+      internalID: -3357705538122098642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f82bdbe66f36d0800000000000000
+      internalID: -3008572862879958612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 63
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbb75dde7a514e0800000000000000
+      internalID: -2011517018620313654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 15
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a603cd71048070800000000000000
+      internalID: 8107606868828268748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77639a9a87a127770800000000000000
+      internalID: 8606970943403275895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 15
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbe01cdb559f1c0800000000000000
+      internalID: -4469446881712357945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce54eab85bbc910800000000000000
+      internalID: 1858778882749361167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e807c47f4988d3f0800000000000000
+      internalID: -875799153168938782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 15
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b43e0d7a5a8dd0800000000000000
+      internalID: -2483072751385658899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650dcbd5f1a2ad40800000000000000
+      internalID: 5594211764474283366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdff7a59574e940800000000000000
+      internalID: 5324509945087909764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
